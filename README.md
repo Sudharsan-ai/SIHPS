@@ -25,6 +25,11 @@ The idea is to create an integrated Alumni Association Platform for Government E
 
 
 ## Proposed Solution / Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/d8876714-74cd-46ed-ba5c-d8364128979f)
+
+
+
 ```
 
                                       +---------------------------+
@@ -119,6 +124,11 @@ Below are the primary use cases for the Alumni Association Platform:
 1.Organizers create an event, add details (time, location, agenda), and publish it.
 2.Alumni can RSVP and receive reminders.
 3.Event details are stored in the Event Management DB.
+
+
+![image](https://github.com/user-attachments/assets/a037f66e-e3cc-4c3b-9976-1d00f394cf3d)
+
+
 
 ## Technology Stack
 
